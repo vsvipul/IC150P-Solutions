@@ -1,0 +1,27 @@
+Ajay Kumar, B18001, C
+Aman Meena, B18100, A
+Sujeet Singh, B18922, O
+Dinesh Pamnani, B18111, B
+Yougesh Chand, B18123, A
+Sanjay Baghel, B18765, A
+Virat Arora, B18666, O
+Pooja Saxena, B18543, B
+Kiran Rao, B18909, A
+Munmun Samaddar, B18777, O
+Kusum Sinha, B18732, A
+Anuj Gupta, B18888, C
+Dinesh Bhavnani, B18667, B
+Mohan Gupta, B18007, A
+Sindhu J. Nair, B18156, O
+S. P. Mishra, B18333, B
+Shweta Mohta, B18900, C
+Anjani Sridevi, B18764, A
+Juhi Sharma, B18087, B
+Poulomi Sen, B18343, C
+Krishna Narayan Tamrakar, B18256, B
+Nikhil Agarwal, B18761, B
+Subrata Bhattacharjee, B18143, A
+Deendayal, B18007, C
+Harpreet Singh, B18676, A
+Arvind Nema, B18907, B
+Anup Goyal, B18545, B
